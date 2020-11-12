@@ -5,7 +5,7 @@ Throughout this project, we will explore the Olympics dataset(scraped from https
 
 ##About the dataset
 The snapshot of the data, you will be working on:
-<img src="dataset snapshot.png">
+<img src="dataset snapshot.PNG">
 
 ##Why solve this project?
 After completing this project, you will have a better understanding of data handling with python(pandas). In this project, you will be applying the following concepts :
